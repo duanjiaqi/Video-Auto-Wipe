@@ -41,7 +41,7 @@
 ### 2.1 测试1-闪烁出现的特效文字擦除
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-dynamic-logo/测试-动态字幕擦除_1.JPG)<br/><br/>
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-dynamic-logo/测试-动态字幕擦除_2.JPG)<br/>
-<p align="center"><a href='http://www.seeprettyface.com/mp4/video-inpainting/delogo_06.mp4' target='_blank'>查看视频</a></p>
+<p align="center"><a href='http://www.seeprettyface.com/mp4/video-inpainting/de_dynamic_logo.mp4' target='_blank'>查看视频</a></p>
 <br/><br/><br/><br/>
 
 ## 3. 字幕擦除
