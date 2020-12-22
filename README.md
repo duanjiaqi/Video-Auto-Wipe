@@ -91,7 +91,7 @@
 &emsp;&emsp;3.基于搜集的40余部综艺节目制作了864部综艺片段数据集；<br/>
 &emsp;&emsp;&emsp;&emsp;下载地址：https://pan.baidu.com/s/1lJk6IIWlwxknAie0LlGYOg  提取码：9rd4 <br/><br/>
 &emsp;&emsp;4.基于搜集的180,000余张图标素材制作了36,000余张图标数据集。<br/><br/>
-<br/>
+
 ### 训练过程
 &emsp;&emsp;第1步. 针对特定任务的时域感知训练；<br/>
 &emsp;&emsp;第2步. 融合擦除模型的微调训练。<br/>
