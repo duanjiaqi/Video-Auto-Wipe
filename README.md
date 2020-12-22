@@ -26,7 +26,7 @@
 <p align="center"><a href='http://www.seeprettyface.com/mp4/video-inpainting/delogo_04.mp4' target='_blank'>查看视频</a></p>
 <br/><br/>
 
-### 1.5 测试5-自媒体视频的遮挡图标擦除
+### 1.5 测试5-短视频MV的遮挡水印擦除
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试08-自媒体视频1.JPG)<br/>
 <p align="center"><a href='http://www.seeprettyface.com/mp4/video-inpainting/delogo_05.mp4' target='_blank'>查看视频</a></p>
 <br/><br/>
