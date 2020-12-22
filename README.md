@@ -8,7 +8,7 @@
 
 ### 1.1 测试1-电视剧的台标、剧名和角标擦除
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试01-电视剧1.JPG)<br/>
-[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)<br/><br/>
+<p align="center">[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)</p><br/><br/>
 
 ### 1.2 测试2-足球赛的台标、状态栏擦除
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试04-足球赛.JPG)<br/>
@@ -96,8 +96,8 @@
 <br/><br/><br/><br/>
 
 # 了解更多
-&emsp;&emsp;本人的研究方向是生成模型的应用技术研究。生成技术解决的问题是像素的预测，也就是在一个有缺失/完全缺失的图像棋盘上进行像素的填补/预测，使填补/预测完的图像符合真实图像的规律。基于这种模式可展开的玩法有很多，除了我之前做的数字人生成、视频内容生成等，我们还可以拓展出很多并行的思路出来。<br/>
-&emsp;&emsp;尽管目前大部分的CV落地项目都集中在感知和识别任务上，而对于重构和生成任务的研发相对较少，但这不应影响我们对于生成技术价值的判断，毕竟生成技术是相对较新的研究方向参与的人较少。我后续将持续致力于探索生成方向的落地型算法研发，欢迎访问我的网站了解这方面最新的研究进展：[www.seeprettyface.com](http://www.seeprettyface.com)。<br/>
+&emsp;&emsp;本人的研究方向是生成模型的应用技术研究。生成技术解决的问题是像素的预测，也就是在一个有缺失/完全缺失的图像棋盘上进行像素的填补/预测，使填补/预测完的图像符合真实图像的规律。基于这种模式可展开的玩法有很多，除了我之前做的数字人生成、视频内容生成等，我们还可以拓展出更多并行的思路出来。<br/>
+&emsp;&emsp;尽管目前大部分的CV落地项目都集中在感知和识别任务上，而对于重构和生成任务的研发相对较少，但这不应影响我们对于生成技术价值的判断，毕竟生成技术是相对较新的、参与人较少的研究方向。我后续将持续致力于探索生成方向的落地型算法研发，欢迎访问我的网站了解这方面最新的研究进展：[www.seeprettyface.com](http://www.seeprettyface.com)。<br/>
 <p align="center">
 	<img src="https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/cover.png" alt="Sample"  width="512" height="512">
 </p>
