@@ -3,12 +3,15 @@
 &emsp;&emsp;我后续会持续不断的探索和制作新的生成方向的应用类技术，基于生成模型可玩的点还有很多很多，此项目仅仅展示了其中的一个具象化例子。模型版权所属：[www.seeprettyface.com](www.seeprettyface.com) ，未获得授权请不要用作商业用途。关于算法的细节介绍可以参阅我的[研究笔记](http://www.seeprettyface.com/research_notes_page3.html)。<br/><br/><br/><br/>
 
 # 效果预览
-## 1.图标擦除
-&emsp;&emsp;图标擦除模型的功能是模型自动感知到视频中图标的位置然后进行擦除，感知图标的方法为在时域上静止不动的像素块被视作图标。
-### 1.1 测试1-电视剧的台标、片名和角标擦除
-![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试01-电视剧1.JPG)<br/>
+## 1. 图标擦除
+&emsp;&emsp;图标擦除模型的功能是模型自动感知到视频中图标的位置然后进行擦除，感知图标的方法为在时域上静止不动的像素块被视作图标。<br/><br/>
 
-<a href=“http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4”>查看视频</a>
+### 1.1 测试1-电视剧的台标、剧名和角标擦除
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试01-电视剧1.JPG)<br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)<br/><br/>
+
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试01-电视剧2.JPG)<br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)<br/><br/>
 
 
 
