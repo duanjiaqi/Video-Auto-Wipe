@@ -69,7 +69,7 @@
 &emsp;&emsp;下载预训练文件放在pretrained-weight文件夹里。
 &emsp;&emsp;&emsp;&emsp;预训练模型下载地址：
 &emsp;&emsp;input文件夹里放置视频文件和mask文件，运行python demo.py即可。
-&emsp;&emsp;&emsp;&emsp;输入样例下载地址：
+&emsp;&emsp;&emsp;&emsp;输入样例下载地址：https://pan.baidu.com/s/1R366Zu8TGMyv5C9kXkC9Gw  提取码：x73i 
 
 
 
