@@ -72,13 +72,19 @@
 &emsp;&emsp;&emsp;&emsp;输入样例下载地址：https://pan.baidu.com/s/1R366Zu8TGMyv5C9kXkC9Gw  提取码：x73i <br/><br/><br/><br/>
 
 # 训练方法
-&emsp;&emsp;训练数据<br/>
-&emsp;&emsp;&emsp;&emsp;YoutubeVOS2018数据集；<br/>
-&emsp;&emsp;&emsp;&emsp;基于搜集的300余部高清电影制作了4,800余部电影片段数据集；<br/>
-&emsp;&emsp;&emsp;&emsp;基于搜集的120余部综艺节目制作了1,300余部综艺片段数据集；<br/>
-&emsp;&emsp;&emsp;&emsp;基于搜集的180,000余张图标素材制作了36,000余张图标数据集。<br/>
+### 训练数据
+&emsp;&emsp;YoutubeVOS2018数据集；<br/>
+&emsp;&emsp;基于搜集的300余部高清电影制作了4,800余部电影片段数据集；<br/>
+&emsp;&emsp;基于搜集的120余部综艺节目制作了1,300余部综艺片段数据集；<br/>
+&emsp;&emsp;基于搜集的180,000余张图标素材制作了36,000余张图标数据集。<br/>
 <br/><br/>
-&emsp;&emsp;训练过程<br/>
-&emsp;&emsp;&emsp;&emsp;1.针对特定任务的时域感知训练；<br/>
-&emsp;&emsp;&emsp;&emsp;2.融合擦除微调训练。<br/>
+### 训练过程
+&emsp;&emsp;第1步. 针对特定任务的时域感知训练；<br/>
+&emsp;&emsp;第2步. 融合擦除的微调训练。<br/>
+
+# 了解更多
+
+
+
+
 
