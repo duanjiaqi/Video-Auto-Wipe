@@ -42,7 +42,7 @@
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-dynamic-logo/测试-动态字幕擦除_1.JPG)<br/><br/>
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-dynamic-logo/测试-动态字幕擦除_2.JPG)<br/>
 <p align="center"><a href='http://www.seeprettyface.com/mp4/video-inpainting/de_dynamic_logo.mp4' target='_blank'>查看视频</a></p>
-<br/><br/><br/><br/>
+<br/><br/><br/><br/> 
 
 ## 3. 字幕擦除
 &emsp;&emsp;字幕擦除模型的功能是模型自动感知到视频中字幕的位置然后进行擦除，感知字幕的方法为具有统一样式的文字区域被视作字幕。
