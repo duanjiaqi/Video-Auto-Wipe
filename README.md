@@ -32,9 +32,30 @@
 
 ## 2. 动态图标擦除
 &emsp;&emsp;动态图标擦除模型的功能是模型自动感知到视频中动态图标的位置然后进行擦除，感知动态图标的方法为在时域上闪烁出现或动态移动的固定像素块被视作动态图标，这个在制作上有一定难度所以还没有对外开放。<br/><br/>
+### 2.1 测试1-闪烁出现的特效文字擦除
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-dynamic-logo/测试-动态字幕擦除_1.JPG)<br/>
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-dynamic-logo/测试-动态字幕擦除_2.JPG)<br/>
-[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/de_dylogo.mp4)<br/><br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_06.mp4)<br/><br/>
 
 ## 3. 字幕擦除
 &emsp;&emsp;字幕擦除模型的功能是模型自动感知到视频中字幕的位置然后进行擦除，感知字幕的方法为具有统一样式的文字区域被视作字幕。
+### 3.1 测试1-电影字幕擦除
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-text/测试03-电影片段2.JPG)<br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/detext_01.mp4)<br/><br/>
+
+### 3.2 测试2-电视剧字幕擦除
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-text/测试05-电视剧.JPG)<br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/detext_02.mp4)<br/><br/>
+
+### 3.3 测试3-综艺节目字幕擦除
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-text/测试06-综艺片段1.JPG)<br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/detext_03.mp4)<br/><br/>
+
+### 3.4 测试4-综艺节目特殊字幕擦除
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-text/测试08-综艺片段3.JPG)<br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/detext_04.mp4)<br/><br/>
+
+### 3.5 测试5-网络视频字幕擦除
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-text/测试11-网络媒体素材3.JPG)<br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/detext_05.mp4)<br/><br/>
+
