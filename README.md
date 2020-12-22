@@ -10,7 +10,10 @@
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试01-电视剧1.JPG)<br/>
 [查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)<br/><br/>
 
-![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试01-电视剧2.JPG)<br/>
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试02-电视剧2.JPG)<br/>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)<br/><br/>
+
+![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试03-电视剧3.JPG)<br/>
 [查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)<br/><br/>
 
 
