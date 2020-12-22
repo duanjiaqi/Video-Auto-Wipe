@@ -62,14 +62,23 @@
 
 # 使用方法
 ### 1.环境配置
-&emsp;&emsp;torch>1.0
-&emsp;&emsp;其他的缺什么依赖就pip install xxx，需要的东西不多
+&emsp;&emsp;torch>1.0<br/>
+&emsp;&emsp;其他的缺什么依赖就pip install xxx，需要的东西不多<br/><br/>
 
 ### 2.运行方法
-&emsp;&emsp;下载预训练文件放在pretrained-weight文件夹里。
-&emsp;&emsp;&emsp;&emsp;预训练模型下载地址：
-&emsp;&emsp;input文件夹里放置视频文件和mask文件，运行python demo.py即可。
-&emsp;&emsp;&emsp;&emsp;输入样例下载地址：https://pan.baidu.com/s/1R366Zu8TGMyv5C9kXkC9Gw  提取码：x73i 
+&emsp;&emsp;下载预训练文件放在pretrained-weight文件夹里。<br/>
+&emsp;&emsp;&emsp;&emsp;预训练模型下载地址：https://pan.baidu.com/s/12Kv9DkyhLE5sWEiwm59_IA  提取码：pela <br/>
+&emsp;&emsp;input文件夹里放置视频文件和mask文件，编辑demo.py选中任务和文件位置，然后运行python demo.py。<br/>
+&emsp;&emsp;&emsp;&emsp;输入样例下载地址：https://pan.baidu.com/s/1R366Zu8TGMyv5C9kXkC9Gw  提取码：x73i <br/><br/><br/><br/>
 
-
+# 训练方法
+&emsp;&emsp;训练数据<br/>
+&emsp;&emsp;&emsp;&emsp;YoutubeVOS2018数据集；<br/>
+&emsp;&emsp;&emsp;&emsp;基于搜集的300余部高清电影制作了4,800余部电影片段数据集；<br/>
+&emsp;&emsp;&emsp;&emsp;基于搜集的120余部综艺节目制作了1,300余部综艺片段数据集；<br/>
+&emsp;&emsp;&emsp;&emsp;基于搜集的180,000余张图标素材制作了36,000余张图标数据集。<br/>
+<br/><br/>
+&emsp;&emsp;训练过程<br/>
+&emsp;&emsp;&emsp;&emsp;1.针对特定任务的时域感知训练；<br/>
+&emsp;&emsp;&emsp;&emsp;2.融合擦除微调训练。<br/>
 
