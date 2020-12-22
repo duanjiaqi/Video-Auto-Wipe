@@ -59,3 +59,17 @@
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-text/测试11-网络媒体素材3.JPG)<br/>
 [查看视频](http://www.seeprettyface.com/mp4/video-inpainting/detext_05.mp4)<br/><br/>
 
+
+# 使用方法
+### 1.环境配置
+&emsp;&emsp;torch>1.0
+&emsp;&emsp;其他的缺什么依赖就pip install xxx，需要的东西不多
+
+### 2.运行方法
+&emsp;&emsp;下载预训练文件放在pretrained-weight文件夹里。
+&emsp;&emsp;&emsp;&emsp;预训练模型下载地址：
+&emsp;&emsp;input文件夹里放置视频文件和mask文件，运行python demo.py即可。
+&emsp;&emsp;&emsp;&emsp;输入样例下载地址：
+
+
+
