@@ -73,16 +73,34 @@
 
 # 训练方法
 ### 训练数据
-&emsp;&emsp;YoutubeVOS2018数据集；<br/>
-&emsp;&emsp;基于搜集的300余部高清电影制作了2,709部电影片段数据集；<br/>
-&emsp;&emsp;基于搜集的40余部综艺节目制作了864部综艺片段数据集；<br/>
-&emsp;&emsp;基于搜集的180,000余张图标素材制作了36,000余张图标数据集。<br/>
-<br/><br/>
+&emsp;&emsp;1.YoutubeVOS2018数据集；<br/><br/>
+&emsp;&emsp;2.基于搜集的300余部高清电影制作了2,709部电影片段数据集；<br/>
+&emsp;&emsp;&emsp;&emsp;下载地址：https://pan.baidu.com/s/1CIgJmFmx5iR2JfgAyjVaeg  提取码：xb7o <br/><br/>
+&emsp;&emsp;3.基于搜集的40余部综艺节目制作了864部综艺片段数据集；<br/>
+&emsp;&emsp;&emsp;&emsp;下载地址：https://pan.baidu.com/s/1lJk6IIWlwxknAie0LlGYOg  提取码：9rd4 <br/><br/>
+&emsp;&emsp;4.基于搜集的180,000余张图标素材制作了36,000余张图标数据集。<br/><br/>
+<br/>
 ### 训练过程
 &emsp;&emsp;第1步. 针对特定任务的时域感知训练；<br/>
-&emsp;&emsp;第2步. 融合擦除的微调训练。<br/><br/><br/><br/>
+&emsp;&emsp;第2步. 融合擦除的微调训练。<br/>
+<br/>
+### 训练配置
+&emsp;&emsp;图标擦除模型在单卡3090上训练6天；<br/>
+&emsp;&emsp;字幕擦除模型在单卡2080Ti上训练4天；<br/>
+
+<br/><br/><br/><br/>
+# 合作意向
+&emsp;&emsp;这个项目目前还只是自己做着好玩的，开放出的模型是比较糙的训练结果（在大揉合的数据集上硬训，没有经过细致的精调）。所以如果您有需求的话，可以联系我做一些更定制化的模型制作。当然也不局限在图标和字幕的擦除上，视频擦除的衍伸任务也有很多，譬如广告擦除、敏感内容擦除、背景人擦除等等，只要有数据的话目前的技术都是可以实现的。<br/>
+&emsp;&emsp;我的QQ：312863063。<br/>
+&emsp;&emsp;我的邮箱：a312863063@126.com。<br/>
+<br/><br/><br/><br/>
 
 # 了解更多
+&emsp;&emsp;本人的研究方向是生成模型的应用技术研究。生成技术解决的问题是像素的预测，也就是在一个有缺失/完全缺失的图像棋盘上进行像素的填补/预测，使填补/预测完的图像符合真实图像的规律。基于这种模式可展开的玩法有很多很多，除了我之前做的数字人生成、视频内容生成等，我们还可以拓展出很多并行的方向出来。
+&emsp;&emsp;尽管目前大部分的CV落地项目都集中在感知和识别任务上，而对于重构和生成任务的研发相对较少，但这不应影响我们对于生成技术价值的判断，毕竟生成技术是相对较新的研究方向。我将持续致力于探索生成方向的落地型算法研发，欢迎访问我的网站了解这方面最新的研究进展：[www.seeprettyface.com](http://www.seeprettyface.com)。<br/>
+<p align="center">
+	<img src="https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/cover.png" alt="Sample"  width="512" height="512">
+</p>
 
 
 
