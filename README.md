@@ -8,7 +8,8 @@
 
 ### 1.1 测试1-电视剧的台标、剧名和角标擦除
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试01-电视剧1.JPG)<br/>
-<p align="center">[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)</p><br/><br/>
+<p align="center"><a href='http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4' target='_blank'>查看视频</a></p>
+[查看视频](http://www.seeprettyface.com/mp4/video-inpainting/delogo_01.mp4)<br/><br/>
 
 ### 1.2 测试2-足球赛的台标、状态栏擦除
 ![Image text](https://github.com/a312863063/Video-Auto-Wipe/blob/main/pics/de-logo/测试04-足球赛.JPG)<br/>
